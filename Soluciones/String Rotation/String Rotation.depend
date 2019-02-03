@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1547519296 source:h:\carlos\cinvestav\string rotation\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<algorithm>
+	<string>
+
