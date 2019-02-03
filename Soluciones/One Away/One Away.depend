@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1547675093 source:d:\carlos\cinvestav\one away\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<algorithm>
+	<string>
+

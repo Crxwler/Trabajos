@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1519859325 source:c:\users\tamcoder\documents\c++\fibonacci\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1519956520 source:g:\carlos\cinvestav\fibonacci\main.c
+	<stdio.h>
+	<stdlib.h>
+

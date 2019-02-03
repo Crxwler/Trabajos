@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1547676818 source:d:\carlos\cinvestav\palindrome permutation\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<stdio.h>
+	<algorithm>
+
