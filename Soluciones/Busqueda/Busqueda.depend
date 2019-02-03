@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1519943057 source:c:\users\tamcoder\documents\c++\busqueda\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<algorithm>
+

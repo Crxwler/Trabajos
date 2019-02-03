@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1547518912 source:h:\carlos\cinvestav\compression\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<algorithm>
+	<string>
+
